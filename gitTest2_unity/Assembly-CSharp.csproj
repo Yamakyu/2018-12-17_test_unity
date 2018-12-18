@@ -260,9 +260,13 @@
     <Compile Include="Assets\Wwise\Extensions\AkSoundEngine.extensions.cs" />
     <None Include="Assets\Wwise\Deployment\Plugins\Mac\Debug\AkSoundEngine.bundle\Contents\Resources\readme.txt" />
     <None Include="Assets\Wwise\Deployment\Plugins\Mac\Release\AkSoundEngine.bundle\Contents\Resources\readme.txt" />
+    <None Include="Assets\StreamingAssets\Audio\GeneratedSoundBanks\global.txt" />
+    <None Include="Assets\StreamingAssets\Audio\GeneratedSoundBanks\PluginInfo.xml" />
     <None Include="Assets\Wwise\Deployment\Plugins\Mac\Profile\AkSoundEngine.bundle\Contents\Resources\readme.txt" />
     <None Include="Assets\WwiseSettings.xml" />
     <None Include="Assets\StreamingAssets\desc.txt" />
+    <None Include="Assets\StreamingAssets\Audio\GeneratedSoundBanks\SoundbanksInfo.xml" />
+    <None Include="Assets\StreamingAssets\Audio\GeneratedSoundBanks\Init.txt" />
     <None Include="Assets\Wwise\Version.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/abdoul-jabar.mayaki/Documents/Tests_wwise_git_unity/git2/2018-12-17_test_unity/gitTest2_unity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
